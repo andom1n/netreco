@@ -1,5 +1,6 @@
-import org.testng.annotations.Test;
-import org.testng.asserts.Assertion;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
 
 public class MaxServiceTest {
 
